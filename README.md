@@ -1,4 +1,5 @@
-# Code Meets World: Module 1
+# Lesson 1 Assignment
+
 Use this guide for text formatting: https://guides.github.com/features/mastering-markdown/
 
 Personality Quiz: https://www.16personalities.com/free-personality-test
