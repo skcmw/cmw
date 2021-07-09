@@ -1,8 +1,8 @@
 # Lesson 1 Assignment
 
-Use this guide for text formatting: https://guides.github.com/features/mastering-markdown/
+Use this guide for text formatting: https://guides.github.com/features/mastering-markdown/ (optional)
 
-Personality Quiz: https://www.16personalities.com/free-personality-test
+Personality quiz: https://www.16personalities.com/free-personality-test
 
 ## To write this:
 
