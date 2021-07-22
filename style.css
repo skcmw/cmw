@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+}
+
+.headline {
+  background-color: #FBD560;
+  color: black;
+  text-align: center;
+  padding: 30px;
+}
+
+.bio {
+  background-color: rgb(43, 43, 155);
+  color: white;
+  padding: 30px;
+}
+
+p {
+  margin: 10px 0;
+}
+
+#profile-pic {
+  height: 250px;
+  width: 250px;
+  position: absolute;
+  right: 220px;
+  top: 187px;
+}
+
+.list {
+  padding: 30px;
+  background-color: #80E090;
+}
+
+.container {
+  width: 50%;
+  margin-left: 180px;
+}
+
+ul {
+  padding-bottom: 35px;
+}
