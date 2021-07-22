@@ -33,8 +33,7 @@ p {
 }
 
 .list {
-  padding: 30px;
-  padding-bottom: 0px;
+/*   padding: 30px; */
   background-color: #80E090;
 }
 
@@ -44,5 +43,5 @@ p {
 }
 
 ul {
-  padding-bottom: 3px;
+/*   padding-bottom: 3px; */
 }
